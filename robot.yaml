@@ -1,0 +1,11 @@
+tasks:
+  Complete the challenge:
+    robotTaskName: Complete the challenge
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .
